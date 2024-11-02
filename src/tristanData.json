@@ -1,0 +1,1055 @@
+{
+  "projects": [
+        {
+      "name": "SPACEGOD",
+      "slug": "spacegod-sticker",
+      "description": "Spacegod sticker made with Photoshop & Figma",
+      "tags": ["graphics"],
+      "date": "OCT 26, 2024",
+      "images": [
+        "https://utfs.io/f/ZHZFWv4AmQhsQp32DaV921sSRP57hkWw4uBMconDOdlAeNaV"
+      ]
+    },
+            {
+      "name": "SPACEGOD",
+      "slug": "spacegod-records",
+      "description": "Spacegod Records inner label made with Photoshop & Figma",
+      "tags": ["graphics"],
+      "date": "OCT 26, 2024",
+      "images": [
+        "https://utfs.io/f/ZHZFWv4AmQhsjCwbUmp2fsLQtonWz6em5kRjHSpCTqZUugNG"
+      ]
+    },
+    {
+      "name": "TRON",
+      "slug": "tron-render",
+      "description": "TRON Dao commisions",
+      "tags": ["graphics", "3d art"],
+      "date": "OCT 26, 2024",
+      "images": [
+        "https://utfs.io/f/ZHZFWv4AmQhsaTaHI7RVSXQsmEL0D3pZhkWjt9zRG7dPU6ar"
+      ]
+    },
+    {
+"name": "TRON",
+"slug": "tron-record",
+"description": "TRON Dao commisions",
+"tags": ["graphics", "3d art"],
+"date": "OCT 26, 2024",
+"images": [
+"https://utfs.io/f/ZHZFWv4AmQhsV8fZpiprwQ9rgMTvo6HBbPc7Jd2emYx34EZ0"
+]
+},
+    {
+      "name": "GQ",
+      "slug": "gq",
+      "description": "GQ Single Album Cover made with Blender and Photoshop",
+      "tags": ["graphics", "3d art"],
+      "date": "MAY 30, 2024",
+      "images": [
+        "https://utfs.io/f/c3012c9f-e76e-4199-aa96-92a2c55931ce-1re.png",
+        "https://utfs.io/f/1ad8519e-0822-4972-8bc5-70f4a98ade0d-7ndda4.JPEG"
+      ]
+    },
+    {
+      "name": "Overview",
+      "slug": "astro",
+      "description": "Astronauts experiencing the overview effect",
+      "tags": ["graphics"],
+      "date": "JAN 30, 2024",
+      "images": [
+        "https://utfs.io/f/0cd964da-fce2-4557-9af6-62d640f9a157-1jfxvj.png"
+      ]
+    },
+    {
+      "name": "Kaff",
+      "slug": "kaff-light",
+      "description": "Mockups for Kaff, an energy milkshake drink",
+      "tags": ["graphics"],
+      "date": "APR 1, 2024",
+      "images": [
+        "https://utfs.io/f/4cfd00d7-5e30-4012-bb70-fbdad97ea8b1-i8mhi9.png",
+        "https://utfs.io/f/e12cde8a-fae3-4384-903e-54a83ef1c46a-z0b91n.png",
+        "https://utfs.io/f/f4696f8c-617c-4902-bf2b-79f9fd3e72e3-i8mhib.png",
+        "https://utfs.io/f/3fffacba-9812-42c2-9cab-91b4950f5508-jszytj.png"
+      ]
+      ,
+      "collaborators": [
+        "Siyana Studios",
+        "https://www.instagram.com/syynstudios?igsh=MXcyMXZoOTMza281cw==",
+        "Pombo",
+        "https://www.instagram.com/pombo_86?igsh=MXB2eW5uNHJnandteQ=="
+      ]
+    },
+
+    {
+      "name": "Kaff",
+      "slug": "kaff",
+      "description": "Mockups for Kaff, an energy milkshake drink",
+      "tags": ["graphics"],
+      "date": "APR 1, 2024",
+      "images": [
+        "https://utfs.io/f/fc3857f0-02e6-4bbb-87ce-27811af6ad97-1jf40b.png",
+        "https://utfs.io/f/d8b3809e-db93-42f8-bc50-56afdbef06c3-ud1l2i.png",
+        "https://utfs.io/f/b6e13e50-dc0e-4e65-8ddc-9b197241362d-gz6h7s.png",
+        "https://utfs.io/f/0e09601f-f384-4583-b927-e843db71dcab-bufzuf.png",
+        "https://utfs.io/f/9726b383-a065-4cb1-9207-eccb426c3877-95r3jb.png"
+      ]      ,
+      "collaborators": [
+        "Siyana Studios",
+        "https://www.instagram.com/syynstudios?igsh=MXcyMXZoOTMza281cw==",
+        "Pombo",
+        "https://www.instagram.com/pombo_86?igsh=MXB2eW5uNHJnandteQ=="
+      ]
+    },
+
+    {
+      "name": "Spiderverse",
+      "slug": "jumping",
+      "description": "Miles Morales across the spiderverse jumping in Blender (fan art)",
+      "tags": ["3d art", "3d animation"],
+      "date": "OCT 10, 2023",
+      "images": [
+        "https://utfs.io/f/2d62bb00-0c6e-4eae-8def-5c6062409940-1y626.PNG",
+        "https://utfs.io/f/df3d80c4-24d5-425b-a94a-06e6f3d48918-m4gsp1.47.28_AM.PNG"
+      ]
+    },
+    {
+      "name": "Spaceroom",
+      "slug": "spaceroom",
+      "description": "Free your mind graphic poster 3d space couch",
+      "tags": ["graphics", "3d art"],
+      "date": "SEP 15, 2023",
+      "images": [
+        "https://utfs.io/f/b1b45d3a-32cb-4233-839c-258c903fd565-frdxcv.PNG"
+      ]
+    },
+    {
+      "name": "Free your mind",
+      "slug": "free-your-mind",
+      "description": "Free your mind graphic poster",
+      "tags": ["graphics"],
+      "date": "SEP 15, 2023",
+      "images": [
+        "https://utfs.io/f/bfaf2085-9054-4af6-ad82-8a2410200e17-tyikg2.png"
+      ]
+    },
+    {
+      "name": "Atlas Clothing Company",
+      "slug": "tag",
+      "hidden": true,
+      "description": "Atlas Clothing Company Hoodie Tag, division of art & science.",
+      "tags": ["graphics", "apparel"],
+      "date": "MAY 5, 2023",
+      "images": [
+        "https://utfs.io/f/3c8f7fa4-fc72-45c9-9435-07893d4a5135-7ndda4.JPEG"
+      ]
+    },
+    {
+      "name": "Atlas Clothing Company",
+      "slug": "nyc-hoodie",
+      "description": "NYC Parks Atlas Clothing Company Hoodie",
+      "tags": ["graphics", "apparel"],
+      "date": "APR 23, 2023",
+      "images": [
+        "https://utfs.io/f/8b6dce10-99b7-47e2-a926-5d67d7a1b2e0-1u09v.jpg",
+        "https://utfs.io/f/e4a2d9e7-aa2f-40ca-b47f-32df8488906a-m32pxn.jpg",
+        "https://utfs.io/f/3c8f7fa4-fc72-45c9-9435-07893d4a5135-7ndda4.JPEG"
+      ]
+    },
+    {
+      "name": "Atlas Clothing Company",
+      "slug": "skeleton",
+      "description": "Atlas Clothing Company Skeleton Shirt",
+      "tags": ["apparel", "graphics"],
+      "date": "APR 20, 2022",
+      "images": [
+        "https://utfs.io/f/ecb25ca5-a62c-4279-965f-3158257b1bb6-xj9nwt.jpg"
+      ],
+      "collaborators": [
+        "Anna V.",
+        "https://www.instagram.com/gaze.wave/"
+      ]
+    },
+    {
+      "name": "Atlas Clothing Company",
+      "slug": "homepage",
+      "description": "Atlas Clothing Company Landing Page",
+      "tags": ["web", "apparel"],
+      "date": "APR 15, 2022",
+      "images": [
+        "https://utfs.io/f/c9bf4e66-ddaf-405c-9dfe-5860c4ab8f13-tc8kwm.PNG",
+        "https://utfs.io/f/1b81621c-edf6-4e2b-94c0-a29bd0b1f2d3-ini4my.PNG",
+        "https://utfs.io/f/4d81ece4-4c4e-48ea-bcf1-ecf7a0aa4b51-9zpjzs.png",
+        "https://utfs.io/f/8e4e9d21-a3d7-4185-9488-12c4520b8d30-fszm17.PNG",
+        "https://utfs.io/f/002be59b-ce94-4eff-8a2b-b0b6aed74813-4tsuy.PNG"
+      ]
+    },
+
+    {
+      "name": "Atlas Clothing Company",
+      "slug": "pos",
+      "description": "Ethereum POS Panda Atlas Clothing Company T-Shirt",
+      "tags": ["graphics", "apparel"],
+      "date": "SEP 15, 2022",
+      "images": [
+        "https://utfs.io/f/f079672d-f103-4793-aa6e-a9827d1134cb-2dsk.PNG"
+      ]
+    },
+    {
+      "name": "Sun Room",
+      "slug": "sunroom",
+      "description": "Playing around with Blender",
+      "tags": ["3d art"],
+      "date": "JAN 17, 2023",
+      "images": [
+        "https://utfs.io/f/0923a703-aebe-4592-a5c9-a48381b4b484-i2e9gb.PNG",
+        "https://utfs.io/f/a6783842-803b-4634-a97b-57b719a95996-i2e9gc.PNG"
+      ]
+    },
+    {
+      "name": "ISOMETRIC ROOM",
+      "slug": "purple",
+      "description": "Blender Isometric Room",
+      "tags": ["3d art"],
+      "date": "FEB 11, 2023",
+      "images": [
+        "https://utfs.io/f/66550cd3-59e8-4712-ad18-42d084e9f746-i3kfio.PNG",
+        "https://utfs.io/f/9a561b52-498d-4f11-b539-c45237447b87-76b2ou.PNG"
+      ]
+    },
+    {
+      "name": "atlas vr",
+      "slug": "headset",
+      "description": "Retro Atlas VR headset in blender",
+      "tags": ["3d art"],
+      "date": "JUL 18, 2022",
+      "images": [
+        "https://utfs.io/f/2bb5db77-8ef0-4e3e-bb00-b9692a667b70-1xds61.JPG"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "fives-retro",
+      "description": "Retro sony TV game console graphic",
+      "tags": ["graphics"],
+      "date": "JAN 21, 2022",
+      "images": [
+        "https://utfs.io/f/1274aa83-dc18-401d-82c4-968f19d38d96-ng7qvx.png"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "flying-dunk",
+      "description": "PROJECT FIVES flying baller dunk full court render",
+      "tags": ["3d art"],
+      "date": "MAY 16, 2022",
+      "images": [
+        "https://utfs.io/f/822b2590-9be4-4966-816a-8dc4eb73524e-2svc2z.png"
+      ],
+      "collaborators": [
+        "Dmytro Kiiashko",
+        "https://dribbble.com/UnEpicKid",
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "fives-court",
+      "description": "Project Fives presents an innovative 3D basketball shoe art display, embodying the fusion of athletic performance and artistic expression. This exhibit features five distinct basketball shoes, each uniquely designed with a blend of vibrant colors, intricate patterns, and cutting-edge materials. All are inspired by nature, with organic textures and earthy tones, signifying endurance and resilience.",
+      "tags": ["3d art"],
+      "date": "MAY 16, 2022",
+      "images": [
+        "https://utfs.io/f/6e95b37e-a988-48ba-be17-e235dc6614b5-1kgzuz.png",
+        "https://utfs.io/f/d265f7b4-717b-4b42-a0e7-6577a1e772d0-6789rp.png"
+      ],
+      "collaborators": [
+        "Dmytro Kiiashko",
+        "https://dribbble.com/UnEpicKid",
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "baller-chestpack",
+      "description": "Blender PROJECT FIVES baller chest pack render",
+      "tags": ["3d art", "apparel"],
+      "date": "APR 21, 2022",
+      "images": [
+        "https://utfs.io/f/4d47e2db-b1ba-4d99-9810-8802658bee57-nl3nmu.PNG"
+      ],
+      "collaborators": [
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+
+    {
+      "name": "PROJECT FIVES",
+      "slug": "hoodie",
+      "description": "3D hoodie apparel",
+      "tags": ["3d art", "apparel"],
+      "date": "MARCH 8, 2022",
+      "images": [
+        "https://utfs.io/f/9caecdbf-f57b-4bff-9416-8eac13db5062-o7st28.png"
+      ],
+      "collaborators": [
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "puffer",
+      "description": "3D puffer apparel",
+      "tags": ["3d art", "apparel"],
+      "date": "MARCH 4, 2022",
+      "images": [
+        "https://utfs.io/f/105cea5c-13b0-4971-bb62-d66031c47a1e-1199t.png"
+      ],
+      "collaborators": [
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "coat",
+      "description": "3D coat apparel",
+      "tags": ["3d art", "apparel"],
+      "date": "FEB 23, 2022",
+      "images": [
+        "https://utfs.io/f/c470054c-91dc-4548-938c-c42f2d517f68-4nguiy.png"
+      ],
+      "collaborators": [
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "fives-shoe",
+      "description": "3D baller basketball shoes",
+      "tags": ["3d art", "apparel"],
+      "date": "FEB 2, 2022",
+      "images": [
+        "https://utfs.io/f/ca0bc739-d923-4348-b70e-328c7e23403c-60jxjk.png",
+        "https://utfs.io/f/900d2cd0-8b13-44a9-ab6a-0b02c50db8e8-nvk38v.png",
+        "https://utfs.io/f/ddc095d8-4979-4b1b-a863-709d34e30e4a-h9fxxu.png"
+      ]
+    },
+
+    {
+      "name": "PROJECT FIVES",
+      "hidden": true,
+      "slug": "fives-atari",
+      "description": "Retro atari game console computer graphic",
+      "tags": ["graphics"],
+      "date": "JAN 21, 2022",
+      "images": [
+        "https://utfs.io/f/fcdfc04c-1ff0-4677-b52b-1f4c9c13db92-leh218.png"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "baller-dunk",
+      "description": "Blender PROJECT FIVES basketball dunk",
+      "tags": ["3d art"],
+      "date": "APR 3, 2022",
+      "images": [
+        "https://utfs.io/f/28a4eaf2-d593-452a-a199-8551db95fa5e-88w9lx.png"
+      ],
+      "collaborators": [
+        "Denirio Thomson",
+        "https://dt3dart.com/"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "fives-dunk-albumn",
+      "description": "90s albumn cover graphic",
+      "tags": ["graphics"],
+      "date": "JAN 21, 2022",
+      "images": [
+        "https://utfs.io/f/a1958337-b1bf-4c59-9dd8-788d59f917d7-k7qnig.png"
+      ]
+    },
+    {
+      "name": "PROJECT FIVES",
+      "slug": "fives-dunk-poster",
+      "hidden": true,
+      "description": "Basketball reimagined dunk albumn cover graphic",
+      "tags": ["graphics"],
+      "date": "JAN 11, 2022",
+      "images": [
+        "https://utfs.io/f/98aa3520-a744-4a5d-a599-4ac5ecb7183a-ivnuo5.png"
+      ]
+    },
+
+    {
+      "name": "neotokyo sigep",
+      "slug": "1",
+      "description": "Neotokyo sigep sony panasonic sign",
+      "tags": ["graphics"],
+      "date": "SEP 22, 2021",
+      "images": [
+        "https://utfs.io/f/64069027-53b1-43da-9e3e-34dfbe1cf56a-1t5kqk.png"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "name": "JAPAN",
+      "image": "https://utfs.io/f/0cd964da-fce2-4557-9af6-62d640f9a157-1jfxvj.png",
+      "date": "APR 15, 2022"
+    }
+  ],
+  "videos": [
+    {
+      "name": "JAPAN",
+      "image": "https://utfs.io/f/0cd964da-fce2-4557-9af6-62d640f9a157-1jfxvj.png",
+      "date": "APR 15, 2022"
+    }
+  ],
+  "quotes": [
+    {
+      "text": "Be in a mindset of ongoing research. The key to happiness is to be in a mind state with space to always be learning. A way to get here consistently is to read and write",
+      "author": "TB"
+    },
+    {
+      "text": "The secret of achievement is to hold a picture of a successful outcome in mind",
+      "author": "TB"
+    },
+    {
+      "text": "I can do anything I put my mind to with the help of the universe",
+      "author": "TB"
+    },
+    {
+      "text": "If the good guys didn't win, we'd have nothing to believe in",
+      "author": "TB"
+    },
+    {
+      "text": "Life is about loving and learning and creating and exploring and adventuring",
+      "author": "TB"
+    },
+    {
+      "text": "Get high and learn about what you're interested in with chatgpt",
+      "author": "TB"
+    },
+    {
+      "text": "Another key to happiness: do things one at a time with diligence",
+      "author": "TB"
+    },
+    {
+      "text": "The way you get better at doing anything is by doing it",
+      "author": "TB"
+    },
+    {
+      "text": "Waking up to an alarm is purely against the Buddhist monk avatar ways of life because it means you're so deeply attached to something in the real world, something as fundamental as the time of day and where the Sun is compared to the earth.",
+      "author": "TB"
+    },
+    {
+      "text": "If you're guided by the spirit of honest inquiry and every word you say is reflective of what you believe to be the truth then the pathway you walk on is a golden pathway to success, and I know that to be true",
+      "author": "TB"
+    },
+    {
+      "text": "You become articulate by paying attention to what you say",
+      "author": "TB"
+    },
+    {
+      "text": "Mindfulness is the direct path to realization",
+      "author": "TB"
+    },
+    {
+      "text": "Take edibles not to explore nor to experience but rather to brainstorm, create and subsequently learn",
+      "author": "TB"
+    },
+    {
+      "text": "Lack of confidence come from not working hard on the things you care about, true confidence comes from overcoming your fears and doing hard things on purpose",
+      "author": "TB"
+    },
+    {
+      "text": "Inspiration is the most highly concentrated and potent form of energy elixir",
+      "author": "TB"
+    },
+    {
+      "text": "Develop a calm and peaceful philosophy of living",
+      "author": "TB"
+    },
+    {
+      "text": "Practice serenity",
+      "author": "TB"
+    },
+    {
+      "text": "You are what you eat, read, and listen to.",
+      "author": "TB"
+    },
+    {
+      "text": "Creativity is the highest form of intelligence",
+      "author": "TB"
+    },
+    {
+      "text": "I believe today is an amazing day. I believe I can successfully overcome any obstacle that arises. I am happy to be alive. I feel amazing physically, mentally, and spiritually. I am grateful for all that I have had, all that I have currently, and all that I will have. I thank the universe for its wonderful creations and infinite wisdom to explore. I believe today is an amazing day. Namaste",
+      "author": "TB"
+    },
+    {
+      "text": "The world programs you to believe that money is the most scare resource, but there is infinite money out there if you have a good idea. The real scarcity is new ideas and competent execution.",
+      "author": "TB"
+    },
+    {
+      "text": "If the universe is for us, who can be against us?",
+      "author": "TB"
+    },
+    {
+      "text": "Intention is the cure",
+      "author": "TB"
+    },
+    {
+      "text": "Why is learning so addicting?",
+      "author": "TB"
+    },
+    {
+      "text": "Memorization is not the same as understanding",
+      "author": "TB"
+    },
+    {
+      "text": "It's crucial to understand your likes and dislikes. Ranking things and making tier lists are ways to solidity your thoughts and beliefs",
+      "author": "TB"
+    },
+    {
+      "text": "My artistic medium of choice is on the computer where I can experiment freely and reversibly",
+      "author": "TB"
+    },
+    {
+      "text": "Imagination is the most powerful tool of the mind and the key to manifestation",
+      "author": "TB"
+    },
+    {
+      "text": "I daydream professionally",
+      "author": "TB"
+    },
+    {
+      "text": "Increasing my net girth",
+      "author": "TB"
+    },
+    {
+      "text": "Things we mustn't forget: Everything happens for a reason, trust the universe, We can do anything we put our minds to, The point of life is love, friendship, and art, a negative, overwhelmed, stressed, pessimistic mindset is temporary",
+      "author": "TB"
+    },
+    {
+      "text": "The problem of what makes up our reality and its origin frustrates me and leaves me continuously curious, so it's my destiny to solve it",
+      "author": "TB"
+    },
+    {
+      "text": "The mind needs space to breathe",
+      "author": "TB"
+    },
+    {
+      "text": "It's unbelievable that we are living in a time of pre-human unification",
+      "author": "TB"
+    },
+    {
+      "text": "The point of life is love, friendship, and the constant journey of bettering oneself and the lifelong commitment to learning",
+      "author": "TB"
+    },
+    {
+      "text": "The universe wants to help you, the universe wants to see you win. Keeping putting in effort and the universe will keep guiding you in the right direction.",
+      "author": "TB"
+    },
+    {
+      "text": "If we believe psychedelics are avenues to deeper realities, then it does not matter if they truly are or are not, as we gain the same perspective and experiences from it regardless",
+      "author": "TB"
+    },
+    {
+      "text": "Practice is the hardest part of learning, and training is the essence of transformation.",
+      "author": "TB"
+    },
+    {
+      "text": "The muse will visit but she has to find you working",
+      "author": "TB"
+    },
+    {
+      "text": "Artistic confidence can be lifted by regularly creating art and sharing it into the world",
+      "author": "TB"
+    },
+    {
+      "text": "Artists are like gods in the sense that their main magic is creation",
+      "author": "TB"
+    },
+    {
+      "text": "Our reality is a veil, an illusion draped over collective consciousness",
+      "author": "TB"
+    },
+    {
+      "text": "Don't get high if doing an implementation task where you need to complete something on time, but if you're doing an exploration/research task OR an implementation task where you have time and space to explore & research off track you will actually gain deeper insights about what you are implementing",
+      "author": "TB"
+    },
+    {
+      "text": "In moments of challenge or fear, blood turns to liquid gold and fills my veins with the courage and strength to defeat all enemies",
+      "author": "TB"
+    },
+    {
+      "text": "Time spent in flow state is the key to happiness.",
+      "author": "TB"
+    },
+    {
+      "text": "Don't focus on sales, focus on building a good product and it will sell itself",
+      "author": "TB"
+    },
+    {
+      "text": "Change brings with it the opportunity for growth",
+      "author": "TB"
+    },
+    {
+      "text": "I appreciate and enjoy the cross-pollination between the realms of art and science",
+      "author": "TB"
+    },
+    {
+      "text": "A good man does what's right, while a great man inspires others to do the same",
+      "author": "TB"
+    },
+    {
+      "text": "Reverse engineer the feeling that gave you inspiration",
+      "author": "TB"
+    },
+    {
+      "text": "I'm attracted to doing what I'm interested in like a magnet",
+      "author": "TB"
+    },
+    {
+      "text": "most people don't know what they are interested in because they have no space to explore",
+      "author": "TB"
+    },
+    {
+      "text": "I enjoy using both halves of my brain evenly - 50% art 50% engineering",
+      "author": "TB"
+    },
+    {
+      "text": "The fastest way to learn is by exploring the thing you are most currently interested in",
+      "author": "TB"
+    },
+    {
+      "text": "Its more fun learning to apply it",
+      "author": "TB"
+    },
+    {
+      "text": "Life is an ongoing CTF where the flag is money.",
+      "author": "TB"
+    },
+    {
+      "text": "How is earth not internally aligned yet.",
+      "author": "TB"
+    },
+    {
+      "text": "You can do anything you put your mind to",
+      "author": "TB"
+    },
+    {
+      "text": "Pen and paper is not the most efficient tool for note-taking/brainstorming, but should not be fully dismissed as it can act as a powerful initial idea catalyst.",
+      "author": "TB"
+    },
+    {
+      "text": "I am interested in the brain for the same reason I am interested in computers",
+      "author": "TB"
+    },
+    {
+      "text": "I want to master everything I'm good at. Who wouldn't?",
+      "author": "TB"
+    },
+    {
+      "text": "Trying to master higher art forms (painting, graphic design, storyboarding) before mastering the basic building blocks of drawing is like trying to write a new protocol without knowing Solidity",
+      "author": "TB"
+    },
+    {
+      "text": "Success is the moment you feel good enough about a creation you've made to share it in the world",
+      "author": "TB"
+    },
+    {
+      "text": "Time is a blessing, a new day is a new opportunity",
+      "author": "TB"
+    },
+    {
+      "text": "I must ensure I maintain my childlike curiosity, excitement about life, an openness to the new, and a beginners mindset.",
+      "author": "TB"
+    },
+    {
+      "text": "I'm open to new ideas but biased towards my own, I need to reframe this balance to be more open to other ideas",
+      "author": "TB"
+    },
+    {
+      "text": "Never become reliant on caffeine to function",
+      "author": "TB"
+    },
+    {
+      "text": "Failure is the information you need to get where you're going",
+      "author": "Rick Ruben"
+    },
+    {
+      "text": "Excitement is the best barometer for selecting with seeds of ideas to focus on",
+      "author": "Rick Ruben"
+    },
+    {
+      "text": "Art is not a competition, it's a journey of self-expression and exploration.",
+      "author": "Rick Ruben"
+    },
+    {
+      "text": "I want to spend my professional life creating, developing my creative vision, and enhancing my creative abilities while utilizing the current & future tools (blender, ai, text-to-animated movie, etc. as they improve) rather than focusing on trying to make these new tools myself (for the same reason we don't try to make our own ZK prover because many teams of experts are already racing to do the work for us for free)",
+      "author": "TB"
+    },
+    {
+      "text": "Stop comparing yourself to other people, only compare your progress to your previous self",
+      "author": "TB"
+    },
+    {
+      "text": "if (inTrustedEnvironment && !isImplementationTask { getHigh(); }",
+      "author": "TB"
+    },
+    {
+      "text": "Drugs are tools when used for doing purely creative work, brainstorming, or exploration based tasks, or trying to enhance an experience or consumption of art for inspiration or learning purposes, otherwise they are vices",
+      "author": "TB"
+    },
+    {
+      "text": "Even in a world of over saturation, truly impactful art can cut through the noise",
+      "author": "TB"
+    },
+    {
+      "text": "When you are a child the entire world captures you in a dream like awe of curiosity",
+      "author": "TB"
+    },
+    {
+      "text": "I just tell the truth, and the truth sounds crazy in a world full of lies",
+      "author": "Kanye West"
+    },
+    {
+      "text": "Clouds are a suspiciously convenient way of redistributing the most critical resource for all life",
+      "author": "TB"
+    },
+    {
+      "text": "Don't get high when you have an implementation task to do. Only get high when you can free roam/play, brainstorm, and think freely",
+      "author": "TB"
+    },
+    {
+      "text": "It is the responsibility of any serious artist to pay attention to inspiration wherever it may strike, harvest its pure energy, and bathe in it for as long as possible.",
+      "author": "TB"
+    },
+    {
+      "text": "Epiphanies materialize instantly and often in the most ordinary moments",
+      "author": "TB"
+    },
+    {
+      "text": "All you've got to do is plant that seed in your mind, care for it, work steadily at your goal and it will become a reality. It not only will, there is no way it cannot",
+      "author": "TB"
+    },
+    {
+      "text": "You become what you think about.",
+      "author": "TB"
+    },
+    {
+      "text": "The paper money + metal coin combination monetary system is unbelievably troll",
+      "author": "TB"
+    },
+    {
+      "text": "The Internet can be used for purposeful exploring or mindless wandering",
+      "author": "TB"
+    },
+    {
+      "text": "wise means one has a high average outcome across all situations - smart means one does spectacularly well in a few.",
+      "author": "TB"
+    },
+    {
+      "text": "Genius is often perseverance in disguise",
+      "author": "TB"
+    },
+    {
+      "text": "Do things right when you are inspired to do them, otherwise the inspiration will fade away and you'll forget why you even wanted to start",
+      "author": "TB"
+    },
+    {
+      "text": "Most of my memories are in 3rd person",
+      "author": "TB"
+    },
+    {
+      "text": "I'm often distracted while consuming art (especially movies/TV) because I'm thinking about how the artist made it",
+      "author": "TB"
+    },
+    {
+      "text": "I prefer thinking over not thinking (about drinking)",
+      "author": "TB"
+    },
+    {
+      "text": "People's playstyle for life reveals information about yourself",
+      "author": "TB"
+    },
+    {
+      "text": "I'm driven and inspired by science, technology, and art - not business",
+      "author": "TB"
+    },
+    {
+      "text": "Art and creation are the meaning of life, being an artist allows you to see the beauty in everything and enriches all aspects of living.",
+      "author": "TB"
+    },
+    {
+      "text": "Being able to share the discussion of art and create together with a loved one is what gives endless meaning to a relationship",
+      "author": "TB"
+    },
+    {
+      "text": "I'm the Lebron James of coding I need my body taken care of",
+      "author": "TB"
+    },
+    {
+      "text": "Reincarnation is a reallocation of RAM",
+      "author": "TB"
+    },
+    {
+      "text": "I am an artist, physicist, and philosopher in all domains",
+      "author": "TB"
+    },
+    {
+      "text": "I was atheist until I realized I am god",
+      "author": "TB"
+    },
+    {
+      "text": "I can literally feel the electricity moving throughout my brain when I'm really high thinking or solving problems using GPU/CPU heavy algorithms",
+      "author": "TB"
+    },
+    {
+      "text": "I love fighting authority when they're wrong",
+      "author": "TB"
+    },
+    {
+      "text": "Know when to talk but know when to be quiet",
+      "author": "TB"
+    },
+    {
+      "text": "I love and need to practice imagination and visualization",
+      "author": "TB"
+    },
+    {
+      "text": "You must always genuinely and independently ask yourself the question you ask others before they respond",
+      "author": "TB"
+    },
+    {
+      "text": "Doing things that scare you makes you temporarily insecure until you succeed",
+      "author": "TB"
+    },
+    {
+      "text": "I need to be the curator of different museums. You have to be an expert on the topic to design it well",
+      "author": "TB"
+    },
+    {
+      "text": "The cure for depression is creation",
+      "author": "TB"
+    },
+    {
+      "text": "I only do what I want to, but that often means doing things I don't want to now to achieve bigger things I want to later",
+      "author": "TB"
+    },
+    {
+      "text": "True alchemy is transforming hell into heaven",
+      "author": "TB"
+    },
+    {
+      "text": "I'm always in heaven because even when I'm in hell I enjoy battling demons",
+      "author": "TB"
+    },
+    {
+      "text": "The duality of life, with its moments of joy and suffering, render the concept of an afterlife unnecessary. We are already living in a state of both heaven and hell, determined by our own mindset and perception of the world around us.",
+      "author": "TB"
+    },
+    {
+      "text": "They key to happiness is mindset",
+      "author": "TB"
+    },
+    {
+      "text": "Nothing is hard if you're good at learning",
+      "author": "TB"
+    },
+    {
+      "text": "The computer truly is the bicycle of the mind",
+      "author": "TB"
+    },
+    {
+      "text": "I create extra time in the day by both learning and implementing in 2x speed",
+      "author": "TB"
+    },
+    {
+      "text": "🍄 => focus/reflection/empathy/honesty/inspiration, 🍁 => exploration/realization/synthesis/simulations/brainstorming",
+      "author": "TB"
+    },
+    {
+      "text": "I run sims to see into the future. Once I see into the future I can see how to prepare for it and the steps that lead there",
+      "author": "TB"
+    },
+    {
+      "text": "I ask questions when I think",
+      "author": "TB"
+    },
+    {
+      "text": "I often wonder how shit works then learn how it was made by answering my own question with a reasonable guess",
+      "author": "TB"
+    },
+    {
+      "text": "I've found that anything I can imagine becomes reality",
+      "author": "TB"
+    },
+    {
+      "text": "whats harder than finding the answer is often finding the right question to ask",
+      "author": "TB"
+    },
+    {
+      "text": "Being attentive, dynamic, and persistent is key",
+      "author": "TB"
+    },
+    {
+      "text": "If I lived forever I would take over the world It's just an equation with time as a variable",
+      "author": "TB"
+    },
+    {
+      "text": "I'm going to be the new Rothschild family of the cyberspace world by building my crypto legacy now like same with gold rush and Russian oligarchs",
+      "author": "TB"
+    },
+    {
+      "text": "The amount of money you make in any sector is in chronological order",
+      "author": "TB"
+    },
+    {
+      "text": "Life and business is a logarithmic graph with time as the x axis and you can exchange time on the x for money",
+      "author": "TB"
+    },
+    {
+      "text": "My job is to think and I'm on the clock",
+      "author": "TB"
+    },
+    {
+      "text": "Life isn't fair and you're either the ones making the rules or the ones okay with it not being fair",
+      "author": "TB"
+    },
+    {
+      "text": "Wealth is completely 100% all luck. Working hard just increases your odds",
+      "author": "TB"
+    },
+    {
+      "text": "Our generation picks the most random waste of time hills to die on",
+      "author": "TB"
+    },
+    {
+      "text": "People who care too strongly about any one topic have have low EQ",
+      "author": "TB"
+    },
+    {
+      "text": "Life is just day trading time",
+      "author": "TB"
+    },
+    {
+      "text": "Life is a blockchain and you get rewarded by the amount of sleep you get bro you get sleep tokens. The more you sleep and recharge you get a scalar multiplier of how your mood will be affected the next day, if you don't recharge enough you earn less tokens and are grumpy and tired and perform poorly. You're literally rewarded for sleeping bro it's a proof of recharge blockchain ecosystem",
+      "author": "TB"
+    },
+    {
+      "text": "Time travel is possible the only thing that is holding us back is our maximum computing power because if you had enough computing power you could simulate physics and every aspect of our universe so well that you could represent it perfectly in a simulation forwards and backwards does being able to construct a timeline backwards of how history actually played out and then construct a virtual world based off of that and use the same physics to simulate the world forward as well",
+      "author": "TB"
+    },
+    {
+      "text": "Those of lower EQ can be differenciated by observing whose mind's could or could not be replaced by robots today",
+      "author": "TB"
+    }
+  ],
+  "tierlists": [
+    {
+      "movies": [
+        {
+          "name": "Wolf of Wallstreet",
+          "creator": "Martin Scorcese",
+          "image": "https://utfs.io/f/b40ec570-ed7c-46ff-9b04-5c0208b76ef6-26ceq.png"
+        },
+        {
+          "name": "The Incredibles",
+          "creator": "Brad Bird",
+          "image": "https://utfs.io/f/80261cb8-8e88-41fa-bf14-1e08c8ebee31-dqs1u6.png"
+        },
+        {
+          "name": "Meet Joe Black",
+          "creator": "Martin Brest",
+          "image": "https://utfs.io/f/06084bf5-ef87-40ae-980b-94bfd0ff126f-fkv2ft.png"
+        },
+        {
+          "name": "Spider-Man Across the Spider-Verse",
+          "creator": "Phil Lord & Christopher Miller",
+          "image": "https://utfs.io/f/bbb622dc-6a3b-4d52-aa1f-7a86bb565ac1-v3pv11.png"
+        },
+        {
+          "name": "The Creator",
+          "creator": "Gareth Edwards",
+          "image": "https://utfs.io/f/7dacf0e8-9720-4ec5-b2ed-473ee06cd6f7-h0dhyk.png"
+        }
+      ],
+      "shows": [
+        {
+          "name": "Rick and Morty",
+          "creator": "Justin Roiland & Dan Harmon",
+          "image": "https://utfs.io/f/34844608-0f28-43cc-87e2-7c09d24b5289-230tb.png"
+        },
+        {
+          "name": "Chernobyl",
+          "creator": "Craig Mazin",
+          "image": "https://utfs.io/f/c474a9c1-5e92-474b-896e-41486f60525a-dr3uo2.png"
+        },
+        {
+          "name": "Breaking Bad",
+          "creator": "Vince Gilligan",
+          "image": "https://utfs.io/f/d3d17ae0-3661-4ab8-9b08-e6eea499051d-xmueg2.png"
+        }
+      ],
+      "books": [
+        {
+          "name": "Creativity Inc.",
+          "creator": "Ed Catmull",
+          "image": "https://utfs.io/f/5a9f326a-ea64-4821-877f-580e7d0c7178-9ekr6i.png"
+        },
+        {
+          "name": "The Creative Act: A Way of Living",
+          "creator": "Rick Ruben",
+          "image": "https://utfs.io/f/90fcca56-2744-4c16-94ea-448fb1899ae7-5xazy5.png"
+        },
+        {
+          "name": "Wherever You Go, There You Are",
+          "creator": "Jon Kabat-Zinn",
+          "image": "https://utfs.io/f/aaa6a2de-42f9-45dd-a58c-25d992b7095d-lwei02.png"
+        }
+      ],
+      "videogames": [
+        {
+          "name": "Portal 2",
+          "creator": "Valve",
+          "image": "https://utfs.io/f/026690fc-1f19-413e-b33e-3b1a13ff850c-6hgrzu.png"
+        },
+        {
+          "name": "GTA V",
+          "creator": "Rockstar Games",
+          "image": "https://utfs.io/f/1c302fc5-673f-4c25-a299-1869d92184d9-1w82q.png"
+        },
+        {
+          "name": "RDR2",
+          "creator": "Rockstar Games",
+          "image": "https://utfs.io/f/c68002a2-8e70-4259-95c3-952618506978-22xf6.png"
+        },
+        {
+          "name": "Minecraft",
+          "creator": "Mojang",
+          "image": "https://utfs.io/f/24e170df-6a32-410a-a8b7-57164fc085de-bhttwt.png"
+        },
+        {
+          "name": "MW2",
+          "creator": "Infinity Ward",
+          "image": "https://utfs.io/f/08232caa-bf04-4de5-a5f9-71798a0e4f1e-2bpk.png"
+        },
+        {
+          "name": "Valorant",
+          "creator": "Riot Games",
+          "image": "https://utfs.io/f/4364e88a-61d8-4795-bdf5-1f26d05d0bb5-nen3vh.png"
+        }
+      ]
+    }
+  ]
+}
