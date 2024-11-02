@@ -12,8 +12,3 @@ export type Project = {
 export type Gallery = {
   projects: Project[];
 };
-
-export type CatagoryTag = {
-  name: string;
-  color: string;
-};
